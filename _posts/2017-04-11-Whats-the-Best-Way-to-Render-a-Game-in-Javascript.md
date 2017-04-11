@@ -1,4 +1,14 @@
-# What's the Best Way to Render a Game in JavaScript?
+---
+layout: post
+title: "What's the Best Way to Render a Game in JavaScript?"
+categories: games
+tags: [gamedev,games]
+image:
+  feature:
+  teaser:
+  credit:
+  creditlink: ""
+---
 
 One of the most challenging parts about making a web game is understanding the technologies you can use to render to the browser. Our game, nibbly.io, is constructed from [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG) assets being drawn to the [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API). We use SVG assets because we want the art assets to scale to any screen resolution, which was important to us because we have players with wildly different monitors viewing our game. Some games (like agar.io) just use the Canvas API to draw the entities (eg. the simple blobs) in their game, but we wanted to have a focus on detailed, collectible creatures, for which the Canvas API would be hard to use. Canvas wasn't always how we were trying to render our game, but it ended up being better than directly using SVG tags.
 

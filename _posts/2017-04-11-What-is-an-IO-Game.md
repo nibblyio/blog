@@ -1,4 +1,14 @@
-# What is an IO Game?
+---
+layout: post
+title: "What is an IO Game?"
+categories: games
+tags: [gamedev,games]
+image:
+  feature:
+  teaser:
+  credit:
+  creditlink: ""
+---
 
 You've probably already heard of agar.io and slither.io, two incredibly popular, free-to-play browser games. The original, agar.io, took incredibly simple mechanics and paired them an instant, massive multiplayer experience. Taking the concept and running with it, slither.io referenced the Snake games you'd find on old Nokia phones and made a multiplayer version that became a YouTube craze.
 
