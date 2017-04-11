@@ -1,14 +1,4 @@
----
-layout: post
-title: "What Really Is A IO Game?"
-categories: games
-tags: [gamedev,games]
-image:
-  feature:
-  teaser:
-  credit:
-  creditlink: ""
----
+# What is an IO Game?
 
 You've probably already heard of agar.io and slither.io, two incredibly popular, free-to-play browser games. The original, agar.io, took incredibly simple mechanics and paired them an instant, massive multiplayer experience. Taking the concept and running with it, slither.io referenced the Snake games you'd find on old Nokia phones and made a multiplayer version that became a YouTube craze.
 
@@ -22,4 +12,4 @@ What is an IO Game? Here's our idea.
 
 **An IO Game is a lightweight, multiplayer, in-browser take on an established genre.**
 
-How does nibbly.io fit in? We avoid load times by using HTML, CSS, JavaScript and Elm (whoa!) in combination to avoid load times and keep the game running smoothly (we hope!). We also took inspiration from [Pokémon](https://www.giantbomb.com/pokemon/3025-452/) and simplified it down to just battling and collecting creatures. With any luck, we've contributed something to this brand-new IO Game genre that we enjoy so much, and we hope you like it too. Hop back to the [nibbly.io home page](http://nibbly.io) to try it out.
+How does nibbly.io fit in? We use HTML, CSS, JavaScript and [Elm](http://elm-lang.org/) (whoa!) in combination to avoid load times and keep the game running smoothly (we hope!). We also took inspiration from [Pokémon](https://www.giantbomb.com/pokemon/3025-452/) and simplified it down to just battling and collecting creatures. With any luck, we've contributed something fun to this brand-new IO Game genre that we enjoy so much, and we hope you like it too. Hop back to the [nibbly.io home page](http://nibbly.io) to try it out.
